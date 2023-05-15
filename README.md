@@ -32,6 +32,7 @@ La configuración de la aplicación se encuentra en el archivo config.js. Aquí 
 
 PORT: Puerto en el que se ejecutará el servidor Fastify.
 HOST: Configuración de conexión a Redis.
+OPENWEATHER_KEY: Una key para usar la API de clima, les dejo esta para usar si no tienen una propia: 3a65e841e72e1cfe8fb4f96e311b4e76
 
 ## Ejecución
 Para ejecutar la aplicación, sigue los siguientes pasos:
